@@ -22,13 +22,13 @@ typedef struct Info
 int n, cnt = 0;
 Info Customer[100000];
 
-void BookRoom();///Structure, Array, String
-void RoomInfo();///Sorting Algorithm(QuickSort)//Luba
-void ViewServiceInfo();///Sorting algorithm(QuickSort)
-void ViewCustomerInfo();///Trisha(Binary Search)
-void ExtendReservation();///Update Info///Rafiuzzaman
-void DeleteReservation();///Delete Info(Delete)
-void ViewAllRecords();///Sorting Algorithm//Luba
+void BookRoom();
+void RoomInfo();
+void ViewServiceInfo();
+void ViewCustomerInfo();
+void ExtendReservation();
+void DeleteReservation();
+void ViewAllRecords();
 void ShowTime();
 void DateTime();
 
